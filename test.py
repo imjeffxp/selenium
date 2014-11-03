@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # Create a new instance of the Firefox driver
 driver = webdriver.Firefox()
 
-# go to the google home page
+# go to the google home page hahaha
 driver.get("http://www.google.com")
 
 # find the element that's name attribute is q (the google search box)
